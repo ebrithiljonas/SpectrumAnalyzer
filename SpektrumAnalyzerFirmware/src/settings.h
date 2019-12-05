@@ -23,11 +23,11 @@
 #define NAME "SpectrumAnalyzer"
 
 const char* ssid = "EbrithilHome";
-const char* password = "x13ml57b";
+const char* password = "";
 const char* mqtt_server_ip   = "10.0.1.109";
 const int   mqtt_server_port = 1883;
 const char* mqtt_server_user = "devices";
-const char* mqtt_server_pw   = "tXj8LWmjnN97tcdpG6Vu";
+const char* mqtt_server_pw   = "";
 
 // ----- Settings MQTT Topics-----
 
